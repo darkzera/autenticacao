@@ -20,10 +20,15 @@ src="images/security.png" style="background-color:rgba(0,0,0,0);" height=230 alt
 
 
 ## - TODO 
-    1 - prints
-    2 - frontend
-    3 - trocar essa merd de descricao
-    4 - basics (instalacao, incializaçao etc..)
+- [ ] prints
+- [ ] frontend
+- [x] backend
+- [ ] fluxo frontend
+- [x] fluxo backend
+- [x] motivacao do projeto 
+- [ ] trocar essa merd de descricao
+- [ ] basics (instalacao, incializaçao etc..)
+- [ ] colocar os arquivos obvio k k k 
 
 
 ## Dependencias
