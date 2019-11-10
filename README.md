@@ -12,18 +12,16 @@ src="images/security.png" style="background-color:rgba(0,0,0,0);" height=230 alt
  
  
  
- 
- 
- 
- 
- 
-
-
 ## - TODO 
-    1 - prints
-    2 - frontend
-    3 - trocar essa merd de descricao
-    4 - basics (instalacao, incializaçao etc..)
+- [ ] prints
+- [ ] frontend
+- [x] backend
+- [ ] fluxo frontend
+- [x] fluxo backend
+- [x] motivacao do projeto 
+- [ ] trocar essa merd de descricao
+- [ ] basics (instalacao, incializaçao etc..)
+- [ ] colocar os arquivos obvio k k k 
 
 
 ## Dependencias
@@ -33,10 +31,6 @@ src="images/security.png" style="background-color:rgba(0,0,0,0);" height=230 alt
 - BCryptjs 
 - Sequelize 
 - MySQL
-
-
-
-
 
 
 
@@ -63,3 +57,10 @@ Camada de segurança é composta por:
 - *pacote model:* define os modelos de usuário e suas permissões
 - *pacote router:* RestAPI urls, funções de verificação para registro (signup), verificação do JWT para o login e autorização para conteúdo requerido por determinado usuario (baseado em suas permissões)
 - *pacote controller:* processamento de funções para cada RestAPI declarada nas rotas
+
+
+
+
+
+# - - - 
+@Lucas Cruz
