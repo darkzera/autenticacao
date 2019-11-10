@@ -13,7 +13,7 @@ src="images/security.png" style="background-color:rgba(0,0,0,0);" height=230 alt
  
  
 ## - TODO 
-- [ ] prints
+- [ ] prints (estrutura de pastas, diagramas de fluxo, bd..)
 - [ ] frontend
 - [x] backend
 - [ ] fluxo frontend
@@ -51,16 +51,18 @@ Camada de segurança é composta por:
 - Usario e permissão (roles) diagrama de relacionamento aqui TODO
 
 
-## Estrutura do projeto
+## Estrutura do projeto - Backend
 ![Alt text](images/bend.png?raw=true "Title")
-- *pacote config:* define a configuração do nosso DB, chave secreta do JWT e permissões de usuário
-- *pacote model:* define os modelos de usuário e suas permissões
-- *pacote router:* RestAPI urls, funções de verificação para registro (signup), verificação do JWT para o login e autorização para conteúdo requerido por determinado usuario (baseado em suas permissões)
-- *pacote controller:* processamento de funções para cada RestAPI declarada nas rotas
+- * config:* define a configuração do nosso DB, chave secreta do JWT e permissões de usuário
+    - * model:* define os modelos de usuário e suas permissões
+    - * router:* RestAPI urls, funções de verificação para registro (signup), verificação do JWT para o login e autorização para conteúdo requerido por determinado usuario (baseado em suas permissões)
+    - * controller:* processamento de funções para cada RestAPI declarada nas rotas
 
 
 
+# Frontend
+balablabblablabal
 
 
 # - - - 
-@Lucas Cruz
+@Lucas Cruz & Nicolas Milholi 
