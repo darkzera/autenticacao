@@ -1,0 +1,41 @@
+====== Estrutura *Backend ======
+
+- config: pacote estabelece configuracoes de MySQL, JWT e permissoes
+
+- model: define pemissao e usuario no sequelize (facilitador p manipular db)
+
+- router: restapi urls, funcoes para verificação de login, cadastro e autorização(=permissao/usuario)
+
+- controller: package defines process functions for each RestAPIs declared in router package
+
+====== instalar dependencias *Backend ======
+
+$ npm install express sequelize mysql2 jsonwebtoken bcryptjs --save
+
+
+====== Estrutura *Backend ======
+
+– ng g s auth/auth
+– ng g s auth/token-storage
+– ng g s services/user
+
+– ng g c login
+– ng g c register
+– ng g c home
+– ng g c user
+– ng g c pm
+– ng g c admin
+
+
+================================  ================================  
+
+{
+	"name": "Lucas A. Cruz",
+	"username": "darkeira",
+	"email": "darkeira@numkeira.net",
+	"roles": ["user", "pm"],
+	"password": "123456"
+}
+
+
+

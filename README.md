@@ -27,7 +27,7 @@ src="images/security.png" style="background-color:rgba(0,0,0,0);" height=230 alt
 
 
 
-### - TODO (Lite)
+### - (Code)
 - [ ] corrigir nome DB 
 - [ ] chave (secret-key)
 - [ ] 
@@ -73,5 +73,6 @@ Camada de segurança é composta por:
 balablabblablabal
 
 
-# - - - 
+## Referencia
+https://grokonez.com/node-js/angular-nodejs-jwt-authentication-fullstack-nodejs-express-restapis-jwt-bcryptjs-sequelize-mysql-part-1-overview-and-architecture
 @Lucas Cruz & Nicolas Milholi 
