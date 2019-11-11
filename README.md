@@ -13,6 +13,7 @@ src="images/security.png" style="background-color:rgba(0,0,0,0);" height=230 alt
  
  
 ## - TODO 
+### - (Doc)
 - [ ] prints (estrutura de pastas, diagramas de fluxo, bd..)
 - [ ] frontend
 - [x] backend
@@ -22,6 +23,14 @@ src="images/security.png" style="background-color:rgba(0,0,0,0);" height=230 alt
 - [ ] trocar essa merd de descricao
 - [ ] basics (instalacao, incializaçao etc..)
 - [ ] colocar os arquivos obvio k k k 
+
+
+
+
+### - TODO (Lite)
+- [ ] corrigir nome DB 
+- [ ] chave (secret-key)
+- [ ] 
 
 
 ## Dependencias
